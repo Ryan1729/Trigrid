@@ -6,7 +6,7 @@ local offset = 300
 
 function love.load(arg)
     --uncomment to live code with ZeroBraneStudio
-    if arg and arg[#arg] == "-debug" then require("mobdebug").start() end
+    --if arg and arg[#arg] == "-debug" then require("mobdebug").start() end
     
     --inital values
     local topLeftX, topLeftY = 65, 15
