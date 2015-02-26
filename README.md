@@ -19,4 +19,8 @@ Lack of a good example of code that does this is what caused me to post this rep
 
 The rest of the methods are pretty much helper methods, mostly to do with manipulating flat tables of points.
 
+# Demo
 
+![](https://github.com/Ryan1729/Trigrid/blob/master/TrigridDemo.png)
+
+The demo shows that multiple sizes are supported, how the triangles compare to a square grid and animates to show that the grids are drawn dynamically. See [here](https://love2d.org/wiki/Getting_Started) for how to run it.
